@@ -7,6 +7,8 @@
 
 The landscape of cybersecurity in Asian healthcare institutions is undergoing a significant transformation due to a surge in cyberattacks targeting the region. This surge is coinciding with the transition of these institutions towards electronic health records (EHR), a commendable step towards enhancing patient care but one that also expands the attack surface in healthcare IT systems.
 
+**Keywords**: Vulnerability Management, Risk Frameworks, Preventing Incident Recurrence
+
 ## 2\. Analysis of Major Cyberattacks
 
 This paper analyzes five major cyberattacks that have targeted Asian healthcare systems, focusing on the identification of vulnerabilities inherent in these systems. Through this analysis, the paper proposes the adoption of an Enriched Vulnerability Priority Score (EVPS) system. This system is designed to prioritize vulnerabilities effectively, enabling healthcare organizations in Asia to allocate resources efficiently towards mitigating the most critical cyber risks.

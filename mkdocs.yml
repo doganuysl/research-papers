@@ -1,5 +1,8 @@
 site_name: Network Security Strategies and Applications
-
+nav:
+  - Countering Evolving Threats: index.md
+  - Cybersecurity Challenges and Strategies: case-study.md
+  
 theme:
   name: material
   icon:
